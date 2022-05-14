@@ -1,4 +1,4 @@
-### Hi, I Am Erik Paz!
+# Hi, I Am Erik Paz!
 
 <!--
 **iamerikpaz/iamerikpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
